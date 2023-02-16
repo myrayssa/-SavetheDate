@@ -1,0 +1,17 @@
+<head>
+  <link rel="icon" href="img/star-wars-ico.png">
+  <link rel ="stylesheet" href="css/meuestilo.css">
+</head>
+<html>
+    <body>
+        <div class="bandeira">
+            <div  class="primeiracor"><p class="nome">Rayssa</p></div>
+            <div class="segundacor"><p class="date">21/01/2006</p></div>
+            <div class ="terceiracor"><p class="sobrenome">Silva</p></div>
+            <div class="father"></div>
+            <div class="jedi"></div>
+        </div>
+       
+    
+    </body>
+</html>
